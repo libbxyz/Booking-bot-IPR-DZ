@@ -2,6 +2,7 @@
 
 
 Simple example about how this bot will work
+<img width="357" alt="截屏2022-12-12 23 26 50" src="https://user-images.githubusercontent.com/52970538/207147538-dd671cb8-44d1-491f-9036-4126e4ded236.png">
 /start
 
 Bot:
